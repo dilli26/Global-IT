@@ -1,0 +1,84 @@
+Test Starts==================================================================================
+userVerification is Started
+N, Dilliendra (Contractor)
+2332823@cognizant.com
+==================================================================================
+userVerification is Started
+userVerification is passed
+==================================================================================
+==================================================================================
+dropDownValidation is Started
+N, Dilliendra (Contractor)
+2332823@cognizant.com
+userVerification is passed
+==================================================================================
+==================================================================================
+dropDownValidation is Started
+Title of page: Security and Technology
+dropDownValidation is passed
+==================================================================================
+==================================================================================
+appVerification is Started
+Title of page: Global IT
+dropDownValidation is passed
+==================================================================================
+==================================================================================
+appVerification is Started
+IT Outage Alerts
+Microsoft Teams
+IT Outage Alerts
+OneDrive
+Microsoft Teams
+OneDrive
+Global IT Internal Events
+Global IT Internal Events
+S&T Policy Hub
+appVerification is passed
+==================================================================================
+==================================================================================
+presenceOfNewsLable is Started
+S&T Policy Hub
+appVerification is passed
+==================================================================================
+==================================================================================
+presenceOfNewsLable is Started
+Lable: IT News
+presenceOfNewsLable is passed
+==================================================================================
+==================================================================================
+presenceOfAwardsLable is Started
+Lable: IT News
+presenceOfNewsLable is passed
+==================================================================================
+==================================================================================
+presenceOfAwardsLable is Started
+Lable: IT Awards                                                                                                             
+presenceOfAwardsLable is passed
+==================================================================================
+==================================================================================
+verificationOfNewsTooltip is Started
+Total news:12
+Lable: IT Awards                                                                                                             
+presenceOfAwardsLable is passed
+==================================================================================
+==================================================================================
+verificationOfNewsTooltip is Started
+Total news:12
+All Tool Tips Are Verified Correctly.
+All Tool Tips Are Verified Correctly.
+verificationOfNewsTooltip is passed
+==================================================================================
+verificationOfNewsTooltip is passed
+==================================================================================
+==================================================================================
+==================================================================================
+awardContentVerification is Started
+awardContentVerification is Started
+awardContentVerification is passed
+==================================================================================
+awardContentVerification is passed
+==================================================================================
+Chrome Test is passed
+==================================================================================
+Edge Test is passed
+==================================================================================

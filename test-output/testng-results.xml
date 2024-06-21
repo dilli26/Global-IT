@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-03T12:12:30 IST" name="Suite" finished-at="2024-06-03T12:15:41 IST" duration-ms="190502">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T12:12:30 IST" name="Edge Test" finished-at="2024-06-03T12:15:41 IST" duration-ms="190486">
+      <class name="testCase.TC_07_AwardsContentVerification">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:12:31 IST" name="beforeTest" finished-at="2024-06-03T12:13:01 IST" duration-ms="29789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="userVerification()[pri:0, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:13:01 IST" name="userVerification" finished-at="2024-06-03T12:13:37 IST" duration-ms="36276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userVerification -->
+        <test-method signature="dropDownValidation()[pri:1, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:13:37 IST" name="dropDownValidation" finished-at="2024-06-03T12:14:03 IST" duration-ms="25885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownValidation -->
+        <test-method signature="appVerification()[pri:2, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:14:03 IST" name="appVerification" finished-at="2024-06-03T12:14:05 IST" duration-ms="2041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appVerification -->
+        <test-method signature="presenceOfNewsLable()[pri:3, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:14:05 IST" name="presenceOfNewsLable" finished-at="2024-06-03T12:14:09 IST" duration-ms="3656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presenceOfNewsLable -->
+        <test-method signature="presenceOfAwardsLable()[pri:4, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:14:09 IST" name="presenceOfAwardsLable" finished-at="2024-06-03T12:14:12 IST" duration-ms="3045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presenceOfAwardsLable -->
+        <test-method signature="verificationOfNewsTooltip()[pri:5, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:14:12 IST" name="verificationOfNewsTooltip" finished-at="2024-06-03T12:14:18 IST" duration-ms="5969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationOfNewsTooltip -->
+        <test-method signature="awardContentVerification()[pri:6, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:14:18 IST" name="awardContentVerification" finished-at="2024-06-03T12:15:29 IST" duration-ms="71098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- awardContentVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_07_AwardsContentVerification@fa4c865]" started-at="2024-06-03T12:15:29 IST" name="tearDown" finished-at="2024-06-03T12:15:41 IST" duration-ms="11557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_07_AwardsContentVerification -->
+    </test> <!-- Edge Test -->
+    <test started-at="2024-06-03T12:12:30 IST" name="Chrome Test" finished-at="2024-06-03T12:15:40 IST" duration-ms="190174">
+      <class name="testCase.TC_07_AwardsContentVerification">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:12:31 IST" name="beforeTest" finished-at="2024-06-03T12:13:36 IST" duration-ms="65268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="userVerification()[pri:0, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:13:36 IST" name="userVerification" finished-at="2024-06-03T12:13:48 IST" duration-ms="11858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userVerification -->
+        <test-method signature="dropDownValidation()[pri:1, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:13:48 IST" name="dropDownValidation" finished-at="2024-06-03T12:14:04 IST" duration-ms="15483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownValidation -->
+        <test-method signature="appVerification()[pri:2, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:14:04 IST" name="appVerification" finished-at="2024-06-03T12:14:05 IST" duration-ms="1658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appVerification -->
+        <test-method signature="presenceOfNewsLable()[pri:3, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:14:05 IST" name="presenceOfNewsLable" finished-at="2024-06-03T12:14:09 IST" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presenceOfNewsLable -->
+        <test-method signature="presenceOfAwardsLable()[pri:4, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:14:09 IST" name="presenceOfAwardsLable" finished-at="2024-06-03T12:14:12 IST" duration-ms="3069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presenceOfAwardsLable -->
+        <test-method signature="verificationOfNewsTooltip()[pri:5, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:14:12 IST" name="verificationOfNewsTooltip" finished-at="2024-06-03T12:14:18 IST" duration-ms="5477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationOfNewsTooltip -->
+        <test-method signature="awardContentVerification()[pri:6, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:14:18 IST" name="awardContentVerification" finished-at="2024-06-03T12:15:29 IST" duration-ms="70954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- awardContentVerification -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_07_AwardsContentVerification@385c9627]" started-at="2024-06-03T12:15:29 IST" name="tearDown" finished-at="2024-06-03T12:15:40 IST" duration-ms="11369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_07_AwardsContentVerification -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
